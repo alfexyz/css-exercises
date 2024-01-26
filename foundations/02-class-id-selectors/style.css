@@ -1,0 +1,19 @@
+.odd{
+    background-color: #ff000050;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.odd.special{
+    font-size: 24px;
+}
+
+#scnd{
+    color:blue;
+    font-size: 36px;
+}
+
+#frth{
+    background-color:hsl(120, 32%, 57%);
+    font-size: 24px;
+    font-weight: bold;
+}
